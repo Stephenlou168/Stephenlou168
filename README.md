@@ -14,7 +14,7 @@ I am an enthusiastic ICT Engineer with a strong interest in embedded electronic 
 ### Programming
 - **Languages:** C, C++, Python, MATLAB, VHDL, JavaScript, HTML/CSS
 - **Frameworks & Tools:** Qt, ESP-IDF, STM32Cube, ZephyrOS
-- Operating System: Window, Linux
+- **Operating System:** Window, Linux
 ### Hardware and Embedded Processor
 - **Microcontrollers:** STM32, ESP32, nRF52, Raspberry Pi, PSoC
 - **FPGA Development:** Xilinx Vivado, Intel, Quartus, Zynq
