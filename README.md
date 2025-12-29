@@ -7,7 +7,7 @@ Embedded System Engineer
 I am an enthusiastic ICT Engineer with a strong interest in embedded electronic systems, focusing on both hardware and firmware co-design. My passion lies in the IoT domain, where I enjoy designing controllers and integrating them with cloud platforms for monitoring and control. I love solving real-world challenges and optimizing device performance. I am currently expanding my knowledge in Machine Learning, with the goal of integrating Embedded AI into IoT systems. My long-term ambition is to build smarter, more autonomous embedded solutions that bridge intelligence and connectivity.
 
 * 🌍  I'm based in Toulouse, France
-* ✉️  You can contact me at [louyoufuk128@gmail.com](mailto:louyoufuk128@gmail.com)
+* ✉️  You can contact me at [louyoufuk128@gmail.com](mailto:louyoufuk128@gmail.com) or my School Email [youfuk.lou@etu.inp-n7.fr](mailto:youfuk.lou@etu.inp-n7.fr)
 * 🧠  I'm currently learning Embedded System Communication is the field where I continue to expand my knowledge in Machine Learning and Artificial Intelligence. My objective is to become an expert in Embedded AI within the IoT sector, enabling me to develop systems that are more adaptive, intelligent, and capable of making smarter real-time decisions.
 
 ## Skills & Experties
