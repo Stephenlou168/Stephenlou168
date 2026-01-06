@@ -8,7 +8,7 @@ I am an enthusiastic ICT Engineer with a strong interest in embedded electronic 
 
 * 🌍  I'm based in Toulouse, France
 * ✉️  You can contact me at [louyoufuk128@gmail.com](mailto:louyoufuk128@gmail.com) or my School Email [youfuk.lou@etu.inp-n7.fr](mailto:youfuk.lou@etu.inp-n7.fr)
-* 🧠  I'm currently learning Embedded System Communication is the field where I continue to expand my knowledge in Machine Learning and Artificial Intelligence. My objective is to become an expert in Embedded AI within the IoT sector, enabling me to develop systems that are more adaptive, intelligent, and capable of making smarter real-time decisions.
+* 🧠  I'm currently persueing master degree in Embedded System Communication field where I continue to expand my knowledge in Machine Learning and Artificial Intelligence. My objective is to become an expert in Embedded AI within the IoT sector, enabling me to develop systems that are more adaptive, intelligent, and capable of making smarter real-time decisions.
 
 ## Skills & Experties
 ### Programming
